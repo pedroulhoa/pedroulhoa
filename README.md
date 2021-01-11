@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-Me chamo Pedro, e sou Desenvolvedor de Software com foco em back-end, mas também gosto de me aventurar pelo front-end e também na infraestrutura de aplicações.
+Me chamo Pedro, e sou Desenvolvedor de Software com foco em back-end, mas também gosto de me aventurar pelo front-end e na infraestrutura de aplicações.
 
 Outros planos no tempo livre e contribuir com a comunidade de tecnologia e o open source, promovendo conteúdo e disseminando o conhecimento, você pode ver meus Posts e encontrar outros links em [pedroulhoa.com](http://pedroulhoa.com/).
 

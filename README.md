@@ -1,5 +1,4 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_ulhoa?style=social)](https://twitter.com/_ulhoa)
-[![Twitch: ulhoa](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/ulhoa)](https://www.twitch.tv/ulhoa)
 [![Linkedin: pedroulhoa](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroulhoa/)](https://www.linkedin.com/in/pedroulhoa/)
 
 ### Hi there 👋

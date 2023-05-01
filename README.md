@@ -3,6 +3,6 @@
 
 ### Hi there 👋
 
-Me chamo Pedro, sou Desenvolvedor de Software com foco em back-end, principalmente utilizando Java e outros elementos da JVM, mas também curto explorar outras linguagens e me aprofundar em Arquitetura de software, Cloud computing, entre outras coisas.
+Meu nome é Pedro, sou Desenvolvedor de Software com foco em back-end, principalmente utilizando Java e outros elementos da JVM. Além disso, também curto explorar outras linguagens e aprofundar meu conhecimento em Arquitetura de Software, Cloud Computing, entre outras áreas.
 
-Outros planos no tempo livre e contribuir com a comunidade de tecnologia e o Open source, promovendo conteúdo e disseminando o conhecimento, você pode ver meus Posts e encontrar outros links em [pedroulhoa.com](http://pedroulhoa.com/).
+Outros planos no tempo livre e contribuir com a comunidade e o Open Source, promovendo conteúdo e disseminando o conhecimento, você pode ver meus Posts e encontrar outros links em [pedroulhoa.com](http://pedroulhoa.com/).
